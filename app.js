@@ -6,7 +6,6 @@ const dotenv = require('dotenv')
 
 // app modules
 const testRoute = require('./routes/testRoutes')
-const categories = require('./routes/categories')
 const authRoute = require('./routes/authRoute')
 const dbConnection = require('./config/db');
 
